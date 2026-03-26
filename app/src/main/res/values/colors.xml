@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Soft Pink Palette -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Soft Pink Palette -->
+    <color name="primary">#FFB6C1</color>
+    <color name="primary_dark">#FF9EAE</color>
+    <color name="primary_light">#FFD6E0</color>
+    
+    <!-- Secondary Pink Colors -->
+    <color name="secondary">#FFC0CB</color>
+    <color name="secondary_dark">#FFA8B6</color>
+    <color name="secondary_light">#FFE0E8</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent">#FF69B4</color>
+    <color name="accent_dark">#FF1493</color>
+    <color name="accent_light">#FF85C1</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#FFF0F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFF5F8</color>
+    
+    <!-- Text Colors -->
+    <color name="on_primary">#4A4A4A</color>
+    <color name="on_secondary">#5A5A5A</color>
+    <color name="on_background">#2C2C2C</color>
+    <color name="on_surface">#3A3A3A</color>
+    <color name="on_surface_variant">#6A6A6A</color>
+    
+    <!-- BMI Category Colors -->
+    <color name="bmi_underweight">#87CEEB</color>
+    <color name="bmi_normal">#90EE90</color>
+    <color name="bmi_overweight">#FFD700</color>
+    <color name="bmi_obese">#FF6B6B</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+    
+    <!-- Common Colors -->
+    <color name="transparent">#00000000</color>
+    
+    <!-- Divider & Border -->
+    <color name="divider">#FFE0E5</color>
+    <color name="border">#FFC0CB</color>
+</resources>

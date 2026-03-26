@@ -1,0 +1,29 @@
+{
+  "name": "bmicalculator1",
+  "version": "1.0.0",
+  "description": "A comprehensive BMI Calculator Android app built with Kotlin that connects to a Neon PostgreSQL database. Features a soft pink, friendly design targeted at fitness enthusiasts.",
+  "main": "index.js",
+  "scripts": {
+    "neon:login": "npx neon auth login",
+    "neon:run-sql": "npx neon sql --file database/schema.sql",
+    "db:setup": "npx neon sql --file database/schema.sql",
+    "backend:dev": "cd backend && npm run dev",
+    "backend:start": "cd backend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bmi",
+    "calculator",
+    "neon",
+    "postgres",
+    "android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "neonctl": "^2.22.0",
+    "pg": "^8.20.0"
+  }
+}

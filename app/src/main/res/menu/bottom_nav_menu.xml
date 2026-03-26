@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_home"
+        android:title="@string/dashboard" />
+    <item
+        android:id="@+id/navigation_calculator"
+        android:icon="@drawable/ic_weight"
+        android:title="@string/calculate_bmi" />
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_history"
+        android:title="@string/history" />
+    <item
+        android:id="@+id/navigation_goals"
+        android:icon="@drawable/ic_goals"
+        android:title="@string/goals" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_person"
+        android:title="@string/profile" />
+</menu>
