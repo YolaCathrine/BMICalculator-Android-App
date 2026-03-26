@@ -95,5 +95,7 @@ insert-user.js
 # Screenshots and debug files
 *.png
 *.jpg
-*.md
 !README.md
+!GITHUB_README.md
+!PUSH_TO_GITHUB.md
+!*.md
